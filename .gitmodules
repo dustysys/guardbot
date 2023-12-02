@@ -1,0 +1,6 @@
+[submodule "Retrieval-based-Voice-Conversion-WebUI"]
+	path = Retrieval-based-Voice-Conversion-WebUI
+	url = https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI.git
+[submodule ".\\xtts-api-server-d\\"]
+	path = .\\xtts-api-server-d\\
+	url = https://github.com/dustysys/xtts-api-server-d.git
